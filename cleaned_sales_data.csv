@@ -1,0 +1,20 @@
+Order_ID,Customer_Name,Email,City,Category,Quantity,Unit_Price,Order_Date,Total_Sales
+1001,Asha,asha@example.com,Hyderabad,Electronics,2.0,1599.0,2026-01-05,3198.0
+1002,Ravi,ravi@example.com,Hyderabad,Furniture,1.0,8999.0,2026-01-06,8999.0
+1003,Meena,meena@example.com,Bengaluru,Clothing,3.0,799.0,2026-01-07,2397.0
+1004,Kiran,not provided,Chennai,Electronics,1.0,2499.0,2026-01-08,2499.0
+1005,Divya,divya@example.com,Mumbai,Grocery,5.0,120.0,2026-01-09,600.0
+1006,Arjun,arjun@example.com,Hyderabad,Electronics,2.0,1599.0,2026-01-05,3198.0
+1007,Sana,sana@example.com,Pune,Furniture,2.0,4500.0,2026-01-11,9000.0
+1008,Vikram,vikram@example.com,Delhi,Clothing,2.0,1599.0,2026-01-12,3198.0
+1009,Nisha,nisha@example.com,Bengaluru,Grocery,4.0,250.0,2026-01-13,1000.0
+1010,Rahul,rahul@example.com,Mumbai,Electronics,1.0,3299.0,2026-01-14,3299.0
+1012,Pooja,pooja@example.com,Chennai,Clothing,2.0,999.0,2026-01-16,1998.0
+1013,Manoj,manoj@example.com,Unknown,Furniture,1.0,7200.0,2026-01-17,7200.0
+1014,Isha,isha@example.com,Delhi,Grocery,6.0,180.0,2026-01-18,1080.0
+1015,Dev,dev@example.com,Pune,Electronics,2.0,1999.0,2026-01-19,3998.0
+1016,Neha,neha@example.com,Bengaluru,Clothing,3.0,850.0,2026-01-20,2550.0
+1017,Suresh,suresh@example.com,Mumbai,Furniture,1.0,6500.0,2026-01-21,6500.0
+1018,Anu,anu@example.com,Hyderabad,Grocery,5.0,150.0,2026-01-22,750.0
+1019,Farhan,farhan@example.com,Delhi,Electronics,1.0,2799.0,2026-01-23,2799.0
+1020,Tara,tara@example.com,Pune,Clothing,2.0,1100.0,2026-01-24,2200.0

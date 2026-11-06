@@ -1,0 +1,21 @@
+Order_ID	Customer_Name	Email	City	Category	Quantity	Unit_Price	Order_Date
+1001	Asha	asha@example.com	Hyderabad	Electronics	2	1599	05-01-2026
+1002	Ravi	ravi@example.com	 hyderabad 	Furniture	1	8999	06-01-2026
+1003	Meena	meena@example.com	Bengaluru	Clothing	3	799	07-01-2026
+1004	Kiran		Chennai	Electronics	1	2499	08-01-2026
+1005	Divya	divya@example.com	Mumbai	Grocery	5	120	09-01-2026
+1006	Arjun	arjun@example.com	Hyderabad	electronics	2	1599	05-01-2026
+1007	Sana	sana@example.com	Pune	Furniture		4500	11-01-2026
+1008	Vikram	vikram@example.com	Delhi	Clothing	2		12-01-2026
+1009	Nisha	nisha@example.com	Bengaluru	Grocery	4	250	13-01-2026
+1010	Rahul	rahul@example.com	Mumbai	Electronics	1	3299	14-01-2026
+1001	Asha	asha@example.com	Hyderabad	Electronics	2	1599	05-01-2026
+1012	Pooja	pooja@example.com	 chennai	Clothing 	2	999	16-01-2026
+1013	Manoj	manoj@example.com		Furniture	1	7200	17-01-2026
+1014	Isha	isha@example.com	Delhi	Grocery	6	180	18-01-2026
+1015	Dev	dev@example.com	Pune	Electronics	2	1999	19-01-2026
+1016	Neha	neha@example.com	Bengaluru	Clothing	3	850	20-01-2026
+1017	Suresh	suresh@example.com	Mumbai	Furniture	1	6500	21-01-2026
+1018	Anu	anu@example.com	Hyderabad	Grocery	5	150	22-01-2026
+1019	Farhan	farhan@example.com	Delhi	Electronics	1	2799	23-01-2026
+1020	Tara	tara@example.com	Pune	Clothing	2	1100	24-01-2026
